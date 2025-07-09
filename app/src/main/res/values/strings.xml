@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Harvester Hub</string>
+    <string name="no_reviews_yet">No reviews yet. Be the first to get one!</string>
+    <string name="sales_insights_title">Sales Insights</string>
+    <string name="farmer_profile">Farmer Profile</string>
+    <string name="connected_farmers">Connected Farmers</string>
+    <string name="merchant_offers">Merchant Offers</string>
+    <string name="sales_history">Sales History</string>
+    <string name="reviews">What Others Say</string>
+</resources>

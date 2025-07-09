@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "1073913508465",
+    "firebase_url": "https://real-time-stream-841ac-default-rtdb.firebaseio.com",
+    "project_id": "real-time-stream-841ac",
+    "storage_bucket": "real-time-stream-841ac.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1073913508465:android:a81386117eab9849f2e1d0",
+        "android_client_info": {
+          "package_name": "com.example.harvesterhub"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCW1cn5FqO0e4C92jUgHPhPLP0Do-BhT-w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
